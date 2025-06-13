@@ -10,6 +10,7 @@ from django.conf import settings
 from django.conf.urls.static import static
 from uploader.router import router as uploader_router
 from core.views import UserViewSet, CategoriaViewSet, ProdutoViewSet, GraoViewSet, EnderecoViewSet, CompraViewSet, PedidoViewSet
+from core.views import LoginView
 
 router = DefaultRouter()
 
@@ -38,7 +39,8 @@ urlpatterns = [
     ),
     # API
     path('api/', include(router.urls)),
-    path("api/media/", include(uploader_router.urls)),  
+    path("api/media/", include(uploader_router.urls)), 
+    path('api/login/', LoginView.as_view(), name='login'),
 
 ]
 urlpatterns += static(settings.MEDIA_ENDPOINT, document_root=settings.MEDIA_ROOT)
