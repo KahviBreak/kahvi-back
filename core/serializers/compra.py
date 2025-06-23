@@ -15,4 +15,4 @@ from core.serializers.produto import ProdutoSerializer
 class CompraSerializer(ModelSerializer):
     class Meta:
         model = Compra
-        fields = ("id", "status", "total", "data", "tipo_pagamento", "itens") # modificado
+        fields = ("id", "status", "data", "tipo_pagamento") # modificado
