@@ -91,6 +91,617 @@
   }
 },
 {
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2025-06-23T19:07:57.592Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "Cafe Com chocolate",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2025-06-23T19:08:03.128Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Bolo de Murango",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2025-06-23T19:08:34.456Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Cafezes",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2025-06-23T19:16:39.658Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Sobremesas",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2025-06-23T19:16:49.071Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Salgados",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2025-06-23T19:17:01.609Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Bebidas Geladas",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2025-06-23T19:17:07.497Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Bebidas Quentes",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2025-06-23T19:17:14.745Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Outros",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2025-06-23T19:20:22.980Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "Hario V60",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2025-06-23T19:21:09.986Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "4",
+    "object_repr": "Hario V60 - 874e87b5-c3dc-42b9-b08d-326f1c307ba5",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2025-06-23T19:21:20.636Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "Hario V60",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Imagem\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2025-06-23T19:24:57.443Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "French press",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2025-06-23T19:25:06.368Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "5",
+    "object_repr": "French press - 5e3ed79e-40db-4e9c-8820-deac1eaea521",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2025-06-23T19:25:13.996Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "French press",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Imagem\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2025-06-23T19:26:35.911Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "6",
+    "object_repr": "Aeropress - 53ccc21d-48f7-441e-a53a-bacce4bc6e05",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2025-06-23T19:27:53.819Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "5",
+    "object_repr": "Aeropress",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2025-06-23T19:29:56.303Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "7",
+    "object_repr": "Chemex - 4b51b13f-dae0-491a-a91e-81ef034ea257",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2025-06-23T19:31:26.058Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "6",
+    "object_repr": "Chemex",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2025-06-23T19:32:45.829Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "8",
+    "object_repr": "Clever - 0138f4e3-e668-4250-9dcb-83ae78a012ef",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2025-06-23T19:32:49.474Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "7",
+    "object_repr": "Clever",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2025-06-23T19:35:00.484Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "9",
+    "object_repr": "Latte - dddb7714-159a-46f1-9b68-6284de61e6ba",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2025-06-23T19:35:03.507Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "8",
+    "object_repr": "Latte",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2025-06-23T19:38:56.499Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "10",
+    "object_repr": "Cappuccino - f4b3a86c-4b52-4f64-b30a-3e6474e0a418",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2025-06-23T19:38:59.372Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "9",
+    "object_repr": "Cappuccino",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2025-06-23T19:40:55.225Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "11",
+    "object_repr": "Macchiato - 6cc902d4-1009-4366-a2ca-02a381543865",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2025-06-23T19:41:06.353Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "10",
+    "object_repr": "Macchiato",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2025-06-23T19:42:41.081Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "12",
+    "object_repr": "Mocha - e6f9e1f7-3942-4a0f-82d3-04f6abbe95b9",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2025-06-23T19:42:42.304Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "11",
+    "object_repr": "Mocha",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 36,
+  "fields": {
+    "action_time": "2025-06-23T19:43:04.516Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "1",
+    "object_repr": "1 - 94955c63-780c-4427-bd30-4bc6c61d3e1b",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 37,
+  "fields": {
+    "action_time": "2025-06-23T19:43:07.764Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "2",
+    "object_repr": "1 - b7bcd610-8788-462f-a8d5-051c637b1ace",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 38,
+  "fields": {
+    "action_time": "2025-06-23T19:43:10.932Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "3",
+    "object_repr": "1 - 046a0295-8b77-475d-9e13-377aaa359bae",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 39,
+  "fields": {
+    "action_time": "2025-06-23T19:45:39.976Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "13",
+    "object_repr": "Mocha Vegano - ea6fe131-10b5-453e-8562-65e4110bb62e",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 40,
+  "fields": {
+    "action_time": "2025-06-23T19:45:43.473Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "12",
+    "object_repr": "Mocha Vegano",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 41,
+  "fields": {
+    "action_time": "2025-06-23T19:47:27.903Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "14",
+    "object_repr": "Espresso Simples - d846a907-d336-4da2-a7e4-54be76165c0d",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 42,
+  "fields": {
+    "action_time": "2025-06-23T19:47:29.852Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "13",
+    "object_repr": "Espresso Simples",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 43,
+  "fields": {
+    "action_time": "2025-06-23T19:49:00.104Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "15",
+    "object_repr": "Espresso Duplo - 255a922b-52e5-4bb5-b720-0c7e2ad27d6c",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 44,
+  "fields": {
+    "action_time": "2025-06-23T19:49:03.853Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "14",
+    "object_repr": "Espresso Duplo",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 45,
+  "fields": {
+    "action_time": "2025-06-23T19:50:38.695Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "16",
+    "object_repr": "Americano - 16507179-16f2-4658-a0c7-8ce1f4cf0974",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 46,
+  "fields": {
+    "action_time": "2025-06-23T19:50:40.285Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "15",
+    "object_repr": "Americano",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 47,
+  "fields": {
+    "action_time": "2025-06-24T18:02:51.102Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "17",
+    "object_repr": "Matcha latte - 513a8cdf-9a84-4c9a-ad4b-648b46a0aa17",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 48,
+  "fields": {
+    "action_time": "2025-06-24T18:02:52.668Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "16",
+    "object_repr": "Matcha latte",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 49,
+  "fields": {
+    "action_time": "2025-06-24T18:03:35.741Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "18",
+    "object_repr": "Matcha iced latte - 34957ac4-b1ba-4230-9a08-6c119241bb89",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 50,
+  "fields": {
+    "action_time": "2025-06-24T18:04:04.549Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "17",
+    "object_repr": "Matcha iced latte",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 51,
+  "fields": {
+    "action_time": "2025-06-24T18:05:19.766Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "19",
+    "object_repr": "Espresso tônica - 441b6bff-4f5d-4389-86fc-7b5ab1d1fca2",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 52,
+  "fields": {
+    "action_time": "2025-06-24T18:05:21.685Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "18",
+    "object_repr": "Espresso tônica",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 53,
+  "fields": {
+    "action_time": "2025-06-24T18:07:31.644Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "20",
+    "object_repr": "Brusquetta Caprese - b5c2c751-3b49-4956-888f-31babac8deb9",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 54,
+  "fields": {
+    "action_time": "2025-06-24T18:07:44.923Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "19",
+    "object_repr": "Brusquetta Caprese",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
   "model": "auth.permission",
   "pk": 1,
   "fields": {
@@ -595,6 +1206,78 @@
   }
 },
 {
+  "model": "auth.permission",
+  "pk": 57,
+  "fields": {
+    "name": "Can add Token",
+    "content_type": 15,
+    "codename": "add_token"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 58,
+  "fields": {
+    "name": "Can change Token",
+    "content_type": 15,
+    "codename": "change_token"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 59,
+  "fields": {
+    "name": "Can delete Token",
+    "content_type": 15,
+    "codename": "delete_token"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 60,
+  "fields": {
+    "name": "Can view Token",
+    "content_type": 15,
+    "codename": "view_token"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 61,
+  "fields": {
+    "name": "Can add Token",
+    "content_type": 16,
+    "codename": "add_tokenproxy"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 62,
+  "fields": {
+    "name": "Can change Token",
+    "content_type": 16,
+    "codename": "change_tokenproxy"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 63,
+  "fields": {
+    "name": "Can delete Token",
+    "content_type": 16,
+    "codename": "delete_tokenproxy"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 64,
+  "fields": {
+    "name": "Can view Token",
+    "content_type": 16,
+    "codename": "view_tokenproxy"
+  }
+},
+{
   "model": "contenttypes.contenttype",
   "pk": 1,
   "fields": {
@@ -707,6 +1390,22 @@
   }
 },
 {
+  "model": "contenttypes.contenttype",
+  "pk": 15,
+  "fields": {
+    "app_label": "authtoken",
+    "model": "token"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 16,
+  "fields": {
+    "app_label": "authtoken",
+    "model": "tokenproxy"
+  }
+},
+{
   "model": "sessions.session",
   "pk": "60aibj2qccnugrjh11uyhrhmwzdui1oh",
   "fields": {
@@ -732,10 +1431,26 @@
 },
 {
   "model": "sessions.session",
+  "pk": "gwv8mln794nd75wsb6ffvi9xpus7c6sc",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlneNV4HSnrOEO36gwPIluKkQtwdIqWA9s3Me6mR16WMa0_zOEV1VqAOv5tweKS6gXjnems6tLrMk-hN0Tvt-tpiel529--gcC_fmsAbxpMRy-KSEDECZwLyTpJhQwAJ80CC2VkfIkjEwG44RkQIFtT7A9hAN6Q:1uPTEH:JsmwLzYamm7wt0FcjhNZqSGj5A7oQlp-haKwvMckPl8",
+    "expire_date": "2025-06-25T21:43:29.825Z"
+  }
+},
+{
+  "model": "sessions.session",
   "pk": "h9lj94t34j90zsiidb6p3s28566vsuem",
   "fields": {
     "session_data": ".eJxVjDsOwjAQBe_iGln-xD9Kes5g7a5tHEC2FCcV4u4QKQW0b2bei0XY1hq3kZc4J3Zmkp1-NwR65LaDdId265x6W5cZ-a7wgw5-7Sk_L4f7d1Bh1G-tfDBESECT9y6YbFArGxC8RhF0SCB9sQRGZDnZ4iRC8JQQlRDSusLeH-mkOAg:1uM9Vi:rimlJY7aZNI9or8Kp_E7Vz7slcr0EV8a8w917-WOZDQ",
     "expire_date": "2025-06-16T18:03:46.572Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "j6acim47qufzyct6w3ql0q88uvm3ivwz",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGln-xD9Kes5g7a5tHEC2FCcV4u4QKQW0b2bei0XY1hq3kZc4J3Zmkp1-NwR65LaDdId265x6W5cZ-a7wgw5-7Sk_L4f7d1Bh1G-tfDBESECT9y6YbFArGxC8RhF0SCB9sQRGZDnZ4iRC8JQQlRDSusLeH-mkOAg:1uTmBR:lLH_OCAtC-Jjuj8wlSCNGtP66QfxxYZL7UvnfNP8Izo",
+    "expire_date": "2025-07-07T18:46:21.766Z"
   }
 },
 {
@@ -748,10 +1463,34 @@
 },
 {
   "model": "sessions.session",
+  "pk": "ln6wvftpdcsurxhlwmg9iernufu0ym2e",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGln-xD9Kes5g7a5tHEC2FCcV4u4QKQW0b2bei0XY1hq3kZc4J3Zmkp1-NwR65LaDdId265x6W5cZ-a7wgw5-7Sk_L4f7d1Bh1G-tfDBESECT9y6YbFArGxC8RhF0SCB9sQRGZDnZ4iRC8JQQlRDSusLeH-mkOAg:1uWHiH:G9Z0VguNrA3RjrCY3hyGRvRHu9kKHPSwnLl04PRNpak",
+    "expire_date": "2025-07-14T16:50:37.085Z"
+  }
+},
+{
+  "model": "sessions.session",
   "pk": "nx05f4lt8jnceo7pa8hpvrbpa4itr4od",
   "fields": {
     "session_data": ".eJxVjMEOwiAQRP-FsyFbFpD16N1vIEsBqRqalPZk_HdL0oPeJvPezFt43tbit5YWP0VxEYM4_XaBx2eqHcQH1_ssx7muyxRkV-RBm7zNMb2uh_t3ULiVvs4GtUsEBNqcjcrEELQhtWcGUIgEIaudxQGC02QtE6ILoC2ahOLzBaY0NfU:1uBzum:i8GHCaJYCfpOvj7dxMSEPj8quHHWzEKGH_vMCDGF2QQ",
     "expire_date": "2025-05-19T17:47:40.572Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "ul4eg37j5ck7dmcwqcy4ucuodo6yfwqy",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGln-xD9Kes5g7a5tHEC2FCcV4u4QKQW0b2bei0XY1hq3kZc4J3Zmkp1-NwR65LaDdId265x6W5cZ-a7wgw5-7Sk_L4f7d1Bh1G-tfDBESECT9y6YbFArGxC8RhF0SCB9sQRGZDnZ4iRC8JQQlRDSusLeH-mkOAg:1uU7uD:Amf5zU7eOUAeBx54kSSx7i0NtJqv5bk5BN5NNesR1g4",
+    "expire_date": "2025-07-08T17:58:01.336Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "w3y163ncjq03x3waou9jsedp4b9esobq",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGln-xD9Kes5g7a5tHEC2FCcV4u4QKQW0b2bei0XY1hq3kZc4J3Zmkp1-NwR65LaDdId265x6W5cZ-a7wgw5-7Sk_L4f7d1Bh1G-tfDBESECT9y6YbFArGxC8RhF0SCB9sQRGZDnZ4iRC8JQQlRDSusLeH-mkOAg:1uWHpF:4yZfUA0-7k3b3BMibp7aQk5W0LlemmJe61siz6cNjEM",
+    "expire_date": "2025-07-14T16:57:49.167Z"
   }
 },
 {
@@ -783,7 +1522,7 @@
   "pk": 1,
   "fields": {
     "password": "pbkdf2_sha256$1000000$GMcXxU4MR2WOUoq7paxbHI$baRr7FpQJRnH7rNIXOrVpDVdSlhW57FDfzn2fDDAceM=",
-    "last_login": "2025-06-02T18:03:46.568Z",
+    "last_login": "2025-06-30T16:57:49.163Z",
     "is_superuser": true,
     "passage_id": "324321544235435",
     "email": "a@a.com",
@@ -819,35 +1558,258 @@
 },
 {
   "model": "core.categoria",
-  "pk": 2,
+  "pk": 3,
   "fields": {
-    "nome": "Cafezes"
+    "nome": "Sobremesas"
+  }
+},
+{
+  "model": "core.categoria",
+  "pk": 4,
+  "fields": {
+    "nome": "Salgados"
+  }
+},
+{
+  "model": "core.categoria",
+  "pk": 5,
+  "fields": {
+    "nome": "Bebidas Geladas"
+  }
+},
+{
+  "model": "core.categoria",
+  "pk": 6,
+  "fields": {
+    "nome": "Bebidas Quentes"
+  }
+},
+{
+  "model": "core.categoria",
+  "pk": 7,
+  "fields": {
+    "nome": "Outros"
   }
 },
 {
   "model": "core.produto",
-  "pk": 1,
+  "pk": 3,
   "fields": {
-    "nome": "Bolo de Murango",
-    "descricao": "Morango",
-    "preco": "15.00",
-    "categoria": 1,
-    "estoque": 20,
+    "nome": "Hario V60",
+    "descricao": "Método filtrado japonês que permite que seu formato cônico eleve seu café coado. Resulta em uma bebida limpa, saborosa e aromática.",
+    "preco": "17.00",
+    "categoria": 6,
+    "estoque": 0,
     "grao": null,
-    "imagem": null
+    "imagem": 4
   }
 },
 {
   "model": "core.produto",
-  "pk": 2,
+  "pk": 4,
   "fields": {
-    "nome": "Cafe Com chocolate",
-    "descricao": "C/Chocolate",
-    "preco": "5.00",
-    "categoria": 2,
-    "estoque": 20,
+    "nome": "French press",
+    "descricao": "O café filtrado na French Press é encorpado e aromático. A técnica extraí os óleos essenciais dos grãos, criando uma bebida rica e suave, com uma textura densa e sabor equilibrado entre amargor e acidez, ideal para quem aprecia um café intenso e marcante.",
+    "preco": "25.00",
+    "categoria": 6,
+    "estoque": 0,
     "grao": null,
-    "imagem": null
+    "imagem": 5
+  }
+},
+{
+  "model": "core.produto",
+  "pk": 5,
+  "fields": {
+    "nome": "Aeropress",
+    "descricao": "O café filtrado na Aeropress é suave, com corpo leve e sabor limpo. A pressão aplicada durante a extração intensifica os aromas e destaca as notas frutadas, criando uma bebida equilibrada, com baixa acidez e final agradável. Ideal para quem busca praticid",
+    "preco": "14.00",
+    "categoria": 6,
+    "estoque": 0,
+    "grao": null,
+    "imagem": 6
+  }
+},
+{
+  "model": "core.produto",
+  "pk": 6,
+  "fields": {
+    "nome": "Chemex",
+    "descricao": "O café preparado na Chemex é delicado e transparente, com uma filtragem mais lenta que resulta em uma bebida limpa e suave. A técnica realça as notas sutis dos grãos, proporcionando um sabor equilibrado, aromático e de baixa acidez. Ideal para quem apreci",
+    "preco": "17.00",
+    "categoria": 6,
+    "estoque": 0,
+    "grao": null,
+    "imagem": 7
+  }
+},
+{
+  "model": "core.produto",
+  "pk": 7,
+  "fields": {
+    "nome": "Clever",
+    "descricao": "O café feito no Clever é uma combinação de métodos de imersão e filtragem. O processo resulta em uma bebida encorpada, com sabor equilibrado e notas nítidas, sem a acidez excessiva. Prático e eficiente, ideal para quem busca um café suave e saboroso.",
+    "preco": "14.00",
+    "categoria": 6,
+    "estoque": 0,
+    "grao": null,
+    "imagem": 8
+  }
+},
+{
+  "model": "core.produto",
+  "pk": 8,
+  "fields": {
+    "nome": "Latte",
+    "descricao": "O latte é uma bebida cremosa e suave, feita com uma base de espresso e leite vaporizado. Seu sabor equilibrado entre o café e o leite traz uma textura aveludada e um final doce, perfeito para quem busca algo reconfortante e delicado.",
+    "preco": "9.00",
+    "categoria": 6,
+    "estoque": 0,
+    "grao": null,
+    "imagem": 9
+  }
+},
+{
+  "model": "core.produto",
+  "pk": 9,
+  "fields": {
+    "nome": "Cappuccino",
+    "descricao": "O cappuccino é uma bebida clássica, com a combinação perfeita de espresso, leite vaporizado e espuma densa. Sua textura cremosa e sabor equilibrado entre o café forte e o leite, com um toque de doçura, torna-o ideal para quem busca uma experiência intensa",
+    "preco": "10.00",
+    "categoria": 6,
+    "estoque": 0,
+    "grao": null,
+    "imagem": 10
+  }
+},
+{
+  "model": "core.produto",
+  "pk": 10,
+  "fields": {
+    "nome": "Macchiato",
+    "descricao": "O macchiato é um espresso marcado por uma leve camada de leite vaporizado, proporcionando um equilíbrio entre a intensidade do café e a suavidade do leite. Uma escolha ideal para quem aprecia o sabor forte do espresso com um toque sutil de cremosidade.",
+    "preco": "9.00",
+    "categoria": 6,
+    "estoque": 0,
+    "grao": null,
+    "imagem": 11
+  }
+},
+{
+  "model": "core.produto",
+  "pk": 11,
+  "fields": {
+    "nome": "Mocha",
+    "descricao": "O mocha é uma bebida deliciosa que combina espresso, leite vaporizado e calda de chocolate, criando um sabor rico e doce. Perfeito para quem gosta da intensidade do café com a suavidade do chocolate, resultando em uma experiência indulgente e reconfortant",
+    "preco": "12.00",
+    "categoria": 6,
+    "estoque": 0,
+    "grao": null,
+    "imagem": 12
+  }
+},
+{
+  "model": "core.produto",
+  "pk": 12,
+  "fields": {
+    "nome": "Mocha Vegano",
+    "descricao": "O mocha vegano é uma mistura de espresso, leite vegetal e calda de chocolate vegano. Combina o sabor forte do café com a doçura do chocolate, oferecendo uma experiência rica e cremosa, sem ingredientes de origem animal.",
+    "preco": "16.00",
+    "categoria": 6,
+    "estoque": 0,
+    "grao": null,
+    "imagem": 13
+  }
+},
+{
+  "model": "core.produto",
+  "pk": 13,
+  "fields": {
+    "nome": "Espresso Simples",
+    "descricao": "O espresso simples é a essência do café: uma pequena dose concentrada de café puro, com sabor intenso e aromas marcantes. Preparado com pressão, é ideal para quem aprecia o café em sua forma mais pura e potente.",
+    "preco": "6.00",
+    "categoria": 6,
+    "estoque": 0,
+    "grao": null,
+    "imagem": 14
+  }
+},
+{
+  "model": "core.produto",
+  "pk": 14,
+  "fields": {
+    "nome": "Espresso Duplo",
+    "descricao": "O espresso duplo é uma versão mais intensa do clássico, com duas doses concentradas de café. Oferece um sabor ainda mais robusto, com um corpo encorpado e aromas intensos, perfeito para quem busca uma experiência mais forte e energizante.",
+    "preco": "7.00",
+    "categoria": 6,
+    "estoque": 0,
+    "grao": null,
+    "imagem": 15
+  }
+},
+{
+  "model": "core.produto",
+  "pk": 15,
+  "fields": {
+    "nome": "Americano",
+    "descricao": "O americano é uma bebida simples e suave, feita com espresso diluído em água quente. Seu sabor é mais leve que o espresso, com notas marcantes de café, ideal para quem prefere uma opção mais suave, mas ainda com a intensidade do café.",
+    "preco": "8.00",
+    "categoria": 6,
+    "estoque": 0,
+    "grao": null,
+    "imagem": 16
+  }
+},
+{
+  "model": "core.produto",
+  "pk": 16,
+  "fields": {
+    "nome": "Matcha latte",
+    "descricao": "Matcha latte é uma bebida cremosa feita com chá verde em pó (matcha) e leite. Tem sabor levemente amargo, é rica em antioxidantes e oferece energia suave e duradoura, sendo uma alternativa saudável ao café.",
+    "preco": "12.00",
+    "categoria": 6,
+    "estoque": 0,
+    "grao": null,
+    "imagem": 17
+  }
+},
+{
+  "model": "core.produto",
+  "pk": 17,
+  "fields": {
+    "nome": "Matcha iced latte",
+    "descricao": "Matcha iced latte é uma bebida refrescante feita com chá verde em pó (matcha), leite e gelo. Combina sabor suave e levemente amargo com energia natural e antioxidantes, sendo uma opção saudável e gelada para o dia a dia.",
+    "preco": "16.00",
+    "categoria": 5,
+    "estoque": 0,
+    "grao": null,
+    "imagem": 18
+  }
+},
+{
+  "model": "core.produto",
+  "pk": 18,
+  "fields": {
+    "nome": "Espresso tônica",
+    "descricao": "Espresso tônica é uma bebida refrescante que combina café espresso com água tônica e gelo. Seu sabor é marcante e levemente cítrico, equilibrando o amargor do café com o toque borbulhante da tônica.",
+    "preco": "14.00",
+    "categoria": 5,
+    "estoque": 0,
+    "grao": null,
+    "imagem": 19
+  }
+},
+{
+  "model": "core.produto",
+  "pk": 19,
+  "fields": {
+    "nome": "Brusquetta Caprese",
+    "descricao": "Brusqueta de caprese é uma entrada italiana feita com pão tostado coberto por tomate fresco, mussarela de búfala, manjericão e azeite. Combina crocância e frescor, sendo uma versão rústica e saborosa da tradicional salada caprese.",
+    "preco": "22.00",
+    "categoria": 4,
+    "estoque": 0,
+    "grao": null,
+    "imagem": 20
   }
 },
 {
@@ -863,35 +1825,189 @@
 },
 {
   "model": "uploader.image",
-  "pk": 1,
+  "pk": 4,
   "fields": {
-    "attachment_key": "94955c63-780c-4427-bd30-4bc6c61d3e1b",
-    "public_id": "b1a491ec-3818-423a-bbda-b613da7271c4",
-    "file": "images/b1a491ec-3818-423a-bbda-b613da7271c4.png",
-    "description": "1",
-    "uploaded_on": "2025-06-02T17:33:16.429Z"
+    "attachment_key": "874e87b5-c3dc-42b9-b08d-326f1c307ba5",
+    "public_id": "2d5cd8bf-7f0a-470f-b4d1-0d5341f6f4fa",
+    "file": "images/2d5cd8bf-7f0a-470f-b4d1-0d5341f6f4fa.jpg",
+    "description": "Hario V60",
+    "uploaded_on": "2025-06-23T19:21:09.985Z"
   }
 },
 {
   "model": "uploader.image",
-  "pk": 2,
+  "pk": 5,
   "fields": {
-    "attachment_key": "b7bcd610-8788-462f-a8d5-051c637b1ace",
-    "public_id": "b6f0aa96-3ff7-4d2f-9834-10bd8ff21c25",
-    "file": "images/b6f0aa96-3ff7-4d2f-9834-10bd8ff21c25.png",
-    "description": "1",
-    "uploaded_on": "2025-06-02T17:37:56.449Z"
+    "attachment_key": "5e3ed79e-40db-4e9c-8820-deac1eaea521",
+    "public_id": "ad855aea-1a4d-44f9-97f8-3fcb6a89eb7c",
+    "file": "images/ad855aea-1a4d-44f9-97f8-3fcb6a89eb7c",
+    "description": "French press",
+    "uploaded_on": "2025-06-23T19:25:06.367Z"
   }
 },
 {
   "model": "uploader.image",
-  "pk": 3,
+  "pk": 6,
   "fields": {
-    "attachment_key": "046a0295-8b77-475d-9e13-377aaa359bae",
-    "public_id": "c92cb118-2c02-4450-b9f0-995e3b37fd7e",
-    "file": "images/c92cb118-2c02-4450-b9f0-995e3b37fd7e.png",
-    "description": "1",
-    "uploaded_on": "2025-06-02T17:38:10.307Z"
+    "attachment_key": "53ccc21d-48f7-441e-a53a-bacce4bc6e05",
+    "public_id": "3ed44aba-4f0b-461c-bd53-0eace4cea373",
+    "file": "images/3ed44aba-4f0b-461c-bd53-0eace4cea373",
+    "description": "Aeropress",
+    "uploaded_on": "2025-06-23T19:26:35.911Z"
+  }
+},
+{
+  "model": "uploader.image",
+  "pk": 7,
+  "fields": {
+    "attachment_key": "4b51b13f-dae0-491a-a91e-81ef034ea257",
+    "public_id": "a95be97c-52ce-4fea-ba9d-1a14c7e533e8",
+    "file": "images/a95be97c-52ce-4fea-ba9d-1a14c7e533e8",
+    "description": "Chemex",
+    "uploaded_on": "2025-06-23T19:29:56.302Z"
+  }
+},
+{
+  "model": "uploader.image",
+  "pk": 8,
+  "fields": {
+    "attachment_key": "0138f4e3-e668-4250-9dcb-83ae78a012ef",
+    "public_id": "29dbad01-d13f-4e89-adb5-cbcbacefb878",
+    "file": "images/29dbad01-d13f-4e89-adb5-cbcbacefb878",
+    "description": "Clever",
+    "uploaded_on": "2025-06-23T19:32:45.829Z"
+  }
+},
+{
+  "model": "uploader.image",
+  "pk": 9,
+  "fields": {
+    "attachment_key": "dddb7714-159a-46f1-9b68-6284de61e6ba",
+    "public_id": "3b130e79-0d1f-4ec3-aa5b-6220d2d8bde5",
+    "file": "images/3b130e79-0d1f-4ec3-aa5b-6220d2d8bde5.jpg",
+    "description": "Latte",
+    "uploaded_on": "2025-06-23T19:35:00.483Z"
+  }
+},
+{
+  "model": "uploader.image",
+  "pk": 10,
+  "fields": {
+    "attachment_key": "f4b3a86c-4b52-4f64-b30a-3e6474e0a418",
+    "public_id": "06eaf291-6acf-4a76-a4a1-202efb3acb82",
+    "file": "images/06eaf291-6acf-4a76-a4a1-202efb3acb82.jpg",
+    "description": "Cappuccino",
+    "uploaded_on": "2025-06-23T19:38:56.498Z"
+  }
+},
+{
+  "model": "uploader.image",
+  "pk": 11,
+  "fields": {
+    "attachment_key": "6cc902d4-1009-4366-a2ca-02a381543865",
+    "public_id": "2c897f05-3776-4150-b353-7ece2d43839a",
+    "file": "images/2c897f05-3776-4150-b353-7ece2d43839a.jpg",
+    "description": "Macchiato",
+    "uploaded_on": "2025-06-23T19:40:55.225Z"
+  }
+},
+{
+  "model": "uploader.image",
+  "pk": 12,
+  "fields": {
+    "attachment_key": "e6f9e1f7-3942-4a0f-82d3-04f6abbe95b9",
+    "public_id": "38279076-02b8-43a4-9ae1-8b6b1044ec3b",
+    "file": "images/38279076-02b8-43a4-9ae1-8b6b1044ec3b.jpg",
+    "description": "Mocha",
+    "uploaded_on": "2025-06-23T19:42:41.081Z"
+  }
+},
+{
+  "model": "uploader.image",
+  "pk": 13,
+  "fields": {
+    "attachment_key": "ea6fe131-10b5-453e-8562-65e4110bb62e",
+    "public_id": "3a8c5bf0-5ebc-4af2-a410-4e1c10733a5c",
+    "file": "images/3a8c5bf0-5ebc-4af2-a410-4e1c10733a5c.jpg",
+    "description": "Mocha Vegano",
+    "uploaded_on": "2025-06-23T19:45:39.976Z"
+  }
+},
+{
+  "model": "uploader.image",
+  "pk": 14,
+  "fields": {
+    "attachment_key": "d846a907-d336-4da2-a7e4-54be76165c0d",
+    "public_id": "d2a3223c-9de2-4b4e-ae33-cdb0619ac1c6",
+    "file": "images/d2a3223c-9de2-4b4e-ae33-cdb0619ac1c6.jpg",
+    "description": "Espresso Simples",
+    "uploaded_on": "2025-06-23T19:47:27.903Z"
+  }
+},
+{
+  "model": "uploader.image",
+  "pk": 15,
+  "fields": {
+    "attachment_key": "255a922b-52e5-4bb5-b720-0c7e2ad27d6c",
+    "public_id": "0269ee15-8889-4145-8e52-bf5e0195b1c0",
+    "file": "images/0269ee15-8889-4145-8e52-bf5e0195b1c0.jpg",
+    "description": "Espresso Duplo",
+    "uploaded_on": "2025-06-23T19:49:00.103Z"
+  }
+},
+{
+  "model": "uploader.image",
+  "pk": 16,
+  "fields": {
+    "attachment_key": "16507179-16f2-4658-a0c7-8ce1f4cf0974",
+    "public_id": "1a34af5e-4971-4362-ad6f-bb6b20c9d50a",
+    "file": "images/1a34af5e-4971-4362-ad6f-bb6b20c9d50a.jpg",
+    "description": "Americano",
+    "uploaded_on": "2025-06-23T19:50:38.694Z"
+  }
+},
+{
+  "model": "uploader.image",
+  "pk": 17,
+  "fields": {
+    "attachment_key": "513a8cdf-9a84-4c9a-ad4b-648b46a0aa17",
+    "public_id": "7ca8513b-a076-4fb6-a7eb-6e8761cdb758",
+    "file": "images/7ca8513b-a076-4fb6-a7eb-6e8761cdb758.jpg",
+    "description": "Matcha latte",
+    "uploaded_on": "2025-06-24T18:02:51.101Z"
+  }
+},
+{
+  "model": "uploader.image",
+  "pk": 18,
+  "fields": {
+    "attachment_key": "34957ac4-b1ba-4230-9a08-6c119241bb89",
+    "public_id": "341b9474-0d8c-4301-9493-11a3ae479a60",
+    "file": "images/341b9474-0d8c-4301-9493-11a3ae479a60.jpg",
+    "description": "Matcha iced latte",
+    "uploaded_on": "2025-06-24T18:03:35.741Z"
+  }
+},
+{
+  "model": "uploader.image",
+  "pk": 19,
+  "fields": {
+    "attachment_key": "441b6bff-4f5d-4389-86fc-7b5ab1d1fca2",
+    "public_id": "68534bb9-4084-4b60-bcfb-ca5689656def",
+    "file": "images/68534bb9-4084-4b60-bcfb-ca5689656def.jpg",
+    "description": "Espresso tônica",
+    "uploaded_on": "2025-06-24T18:05:19.765Z"
+  }
+},
+{
+  "model": "uploader.image",
+  "pk": 20,
+  "fields": {
+    "attachment_key": "b5c2c751-3b49-4956-888f-31babac8deb9",
+    "public_id": "ae5b45cf-552a-4752-affe-3a20b27950a3",
+    "file": "images/ae5b45cf-552a-4752-affe-3a20b27950a3.jpg",
+    "description": "Brusquetta Caprese",
+    "uploaded_on": "2025-06-24T18:07:31.643Z"
   }
 }
 ]
