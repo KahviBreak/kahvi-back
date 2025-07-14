@@ -12,14 +12,14 @@ class ProdutoRetrieveSerializer(ModelSerializer):
         depth = 1
 
 class ProdutoSerializer(ModelSerializer):
-    capa_attachment_key = SlugRelatedField(
-        source='capa',
+    imagem_attachment_key = SlugRelatedField(
+        source='imagem',
         queryset=Image.objects.all(),
         slug_field='attachment_key',
         required=False,
         write_only=True,
     )
-    capa = ImageSerializer(required=False, read_only=True)
+    imagem = ImageSerializer(required=False, read_only=True)
 
     class Meta:
         model = Produto
