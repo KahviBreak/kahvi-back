@@ -9,7 +9,7 @@ from rest_framework.routers import DefaultRouter
 from django.conf import settings
 from django.conf.urls.static import static
 from uploader.router import router as uploader_router
-from core.views import UserViewSet, CategoriaViewSet, ProdutoViewSet, GraoViewSet, EnderecoViewSet, CompraViewSet, PedidoViewSet
+from core.views import UserViewSet, CategoriaViewSet, ProdutoViewSet, GraoViewSet, EnderecoViewSet, CompraViewSet
 from core.views import LoginView
 
 router = DefaultRouter()
@@ -20,7 +20,6 @@ router.register(r'produtos', ProdutoViewSet, basename='produtos')
 router.register(r'graos', GraoViewSet, basename='graos')
 router.register(r'enderecos', EnderecoViewSet, basename='enderecos')
 router.register(r'compras', CompraViewSet, basename='compras')
-router.register(r'pedidos', PedidoViewSet, basename='pedidos')
 
 
 urlpatterns = [
