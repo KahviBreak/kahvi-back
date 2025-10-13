@@ -22,3 +22,10 @@ class Compra(models.Model):
     # Adicionar relacionamento com o grao
     # grao = models.ForeignKey(Grao, on_delete=models.CASCADE, related_name='compras')
     # Adicionar relacionamento com a categoria     
+
+
+class ItemCompra(models.Model):
+    compra = models.ForeignKey('Compra', related_name='itens', on_delete=models.CASCADE)
+    produto = models.ForeignKey(Produto, on_delete=models.CASCADE)
+    quantidade = models.PositiveIntegerField()
+    preco = models.DecimalField(max_digits=8, decimal_places=2)
